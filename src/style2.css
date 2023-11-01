@@ -1,0 +1,9 @@
+footer{
+    height: 222px;
+    background-color: aquamarine;
+    border: 2px solid rgb(224, 224, 70);
+}
+main{
+    height: 600px;
+    border: 2px dashed hotpink;
+}
